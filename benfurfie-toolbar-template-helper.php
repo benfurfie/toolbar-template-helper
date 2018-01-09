@@ -7,15 +7,15 @@ namespace BenFurfie\ToolbarTemplateHelper;
  * 
  * Plugin Name: Toolbar Template Helper
  * Description: A simple plugin that outputs the current template to the toolbar.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: Ben Furfie
- * License: Proprietary
- * Textdomain: textlocal-landing-pages
+ * License: MIT
+ * Textdomain: benfurfie-toolbar-template-helper
  * 
  * @package wordpress
  * @subpackage benfurfie-toolbar-template-helper
  * @author Ben Furfie
- * @license proprietary
+ * @license MIT
  * @copyright Copyright © 2018 Ben Furfie
  */
 
